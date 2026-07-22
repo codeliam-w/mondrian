@@ -18,6 +18,7 @@
 
 
 .square1{
+    backround-color:yellow;
     grid-column-start: 1;
     grid-column-end: 3;
 
@@ -25,7 +26,7 @@
 }
 
 .square6{
-    backround-color:yellow
+    backround-color:yellow;
     grid-row-start: 2;
     grid-row-end: 4;
     grid-column-start: 3;
@@ -34,23 +35,28 @@
 }
 
 .square3{
-backround-color: blue
+backround-color: blue;
 
 }
 
 .square7{
-backround-color: red
+backround-color: red;
 
 }
 
 .square9{
-backround-color:red
+backround-color:red;
 
 
 
 }
 
 .square12{
-backround-color:blue
+backround-color:blue;
+
+}
+
+.square4{
+backround-color:black
 
 }
